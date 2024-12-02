@@ -1,0 +1,19 @@
+---
+dg-publish: true
+tags:
+  - Czechia
+  - CZ0714133
+  - Olomoucký
+  - lossyear2017
+---
+
+# Point 97 in Czechia
+
+This point at lat: 49.63716789, lon: 17.58198211 in CZ0714133 was potentially disturbed in 2017 and after evaluation of satellite imagery, was rated as **Probable Clearcut**.
+
+<div class='juxtapose' data-showcredits='false'>
+<img src='https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/kP8NMIxxLFi1oj74gtpljVLNIr2dAx3I_cba8c70986a80fb86bb38e0ca9e7bfed04b62bdbcc21b6682845e8d75de19b4e.png' data-label='June 2013' />
+<img src='https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/h9TvcpsKMbDOvM00FEy08z8H6qoBArc4_36fa76e1c5f90229e7671db9b90b96a9c270339782545f89ac01a7644523d557.png' data-label='June 2021' />
+</div>
+
+czechiaid97
