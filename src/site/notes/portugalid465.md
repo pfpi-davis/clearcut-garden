@@ -1,0 +1,16 @@
+---
+dg-publish: true
+tags:
+  - Portugal
+  - PTCON0047
+  - Viseu
+  - lossyear2016
+---
+
+# Point 465 in Portugal
+
+This point at lat: 40.83873532, lon: -8.103224351 in PTCON0047 was potentially disturbed in 2016 and after evaluation of satellite imagery, was rated as **False Positive**.
+
+
+
+portugalid465

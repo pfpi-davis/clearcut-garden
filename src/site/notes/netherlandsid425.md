@@ -1,0 +1,16 @@
+---
+dg-publish: true
+tags:
+  - Netherlands
+  - NL1000022
+  - Noord-Brabant
+  - lossyear2022
+---
+
+# Point 425 in Netherlands
+
+This point at lat: 51.45889297, lon: 5.10907286 in NL1000022 was potentially disturbed in 2022 and after evaluation of satellite imagery, was rated as **Undeterminable**.
+
+
+
+netherlandsid425
