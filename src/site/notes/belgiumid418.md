@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-tags:
-  - Belgium
-  - BE34060C0
-  - Wallonie
-  - lossyear2020
+{"dg-publish":true,"permalink":"/belgiumid418/","tags":["Belgium","BE34060C0","Wallonie","lossyear2020"]}
 ---
+
 
 # Point 418 in Belgium
 
