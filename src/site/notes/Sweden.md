@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/Sweden/"}
 ---
 
-
 ## Sweden
 ### Halland
 #### SE0510021 - Klövaberget

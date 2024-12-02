@@ -29,5 +29,5 @@
 - [[belgiumid418\|belgiumid418]]
 #### BE34061C0 - Vallées de Laclaireau et du Rabais
 - [[belgiumid417\|belgiumid417]]
-####  - 
+####  -
 - [[belgiumid419\|belgiumid419]]
