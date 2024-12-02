@@ -1,0 +1,19 @@
+---
+dg-publish: true
+tags:
+  - Portugal
+  - PTCON0059
+  - Viseu
+  - lossyear2018
+---
+
+# Point 476 in Portugal
+
+This point at lat: 40.877620N, lon: 7.897473W in PTCON0059 was potentially disturbed in 2018 and after evaluation of satellite imagery, was rated as **Probable Clearcut**.
+
+<div class='juxtapose' data-showcredits='false'>
+<img src='https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/5bEzLEbicbBmAkXxZaCpkzQ3uBggALST_f7856f3c279bd87a13f589eee5ef524d4d5b2a08cdfaf5b905820e5d956b913f.png' data-label='April 2015' />
+<img src='mSDnIHBZVtsWY2rBFQomIAzzXSooan1...f03e9dc387a0879ae3fdd02e7b.png https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/vQeF6i75xeRJzrQNLCUayhXkVQFbzKGp_b65773b9a5b57baf38893ac71a4443d4a39cfcb6776d60f01eaadf5f8342c94b.png' data-label='May 2019' />
+</div>
+
+portugalid476

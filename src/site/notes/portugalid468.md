@@ -1,0 +1,16 @@
+---
+dg-publish: true
+tags:
+  - Portugal
+  - PTCON0048
+  - Lisboa
+  - lossyear200
+---
+
+# Point 468 in Portugal
+
+This point at lat: 39.22061053, lon: -9.013842557 in PTCON0048 was potentially disturbed in 2000 and after evaluation of satellite imagery, was rated as **False Positive**.
+
+
+
+portugalid468

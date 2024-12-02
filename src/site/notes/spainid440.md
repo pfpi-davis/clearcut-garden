@@ -1,0 +1,16 @@
+---
+dg-publish: true
+tags:
+  - Spain
+  - ES1200056
+  - Principado de Asturias
+  - lossyear2018
+---
+
+# Point 440 in Spain
+
+This point at lat: 43.09446187, lon: -6.788973588 in ES1200056 was potentially disturbed in 2018 and after evaluation of satellite imagery, was rated as **False Positive**.
+
+
+
+spainid440

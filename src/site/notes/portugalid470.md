@@ -1,0 +1,19 @@
+---
+dg-publish: true
+tags:
+  - Portugal
+  - PTCON0056
+  - Leiria
+  - lossyear2021
+---
+
+# Point 470 in Portugal
+
+This point at lat: 39.3741739, lon: -9.283695881 in PTCON0056 was potentially disturbed in 2021 and after evaluation of satellite imagery, was rated as **Probable Clearcut**.
+
+<div class='juxtapose' data-showcredits='false'>
+<img src='https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/B8jqVAv5hkVYVpDLZVAqd5cXbRR24KOg_7bde952a398877df4dd14d57384302840e7097a095d6939a1fe97bea6a0ef7db.png' data-label='August 2018' />
+<img src='https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/AcH7YL3k92vSe3ovLiSPoFRQ5Egpzgdd_d41691408900f7f1b8b51532a8edee7e885139a54336777f3436e23536523edc.png' data-label='May 2022' />
+</div>
+
+portugalid470

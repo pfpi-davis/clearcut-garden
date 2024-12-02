@@ -1,0 +1,19 @@
+---
+dg-publish: true
+tags:
+  - Spain
+  - ES1300011
+  - Cantabria
+  - lossyear2020
+---
+
+# Point 472 in Spain
+
+This point at lat: 43.33922455, lon: -3.426811355 in ES1300011 was potentially disturbed in 2020 and after evaluation of satellite imagery, was rated as **Probable Thinning**.
+
+<div class='juxtapose' data-showcredits='false'>
+<img src='https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/ODeffiHTlITUoqZdG3cUvTpRQv8DfhZ1_1c367a104cd141796a17ef9afdd7f78b85755f9caad43b261a48a0acb470737a.png' data-label='October 2017' />
+<img src='https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/gyO87MmTkG2dIf2zR2T3jAuCS27RRwLp_57cdba1519510800f529cc37ef07d9c0e6f859cef1d4c35363c125287d129678.png' data-label='July 2020' />
+</div>
+
+spainid472
