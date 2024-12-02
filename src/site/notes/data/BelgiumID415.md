@@ -1,0 +1,16 @@
+---
+dg-publish: true
+tags:
+  - Belgium
+  - BE34058C0
+  - Wallonie
+  - lossyear2021
+---
+
+# Point 415 in Belgium
+
+This point at lat: 49.66886867, lon: 5.693417382 in BE34058C0 was potentially disturbed in 2021 and after evaluation of satellite imagery, was rated as **Undeterminable**.
+
+
+
+BelgiumID415
